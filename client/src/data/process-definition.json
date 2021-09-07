@@ -1,0 +1,14 @@
+{
+    "process-1" : {
+        "name": "Application One",
+        "owner": "AD Team 1"
+    },
+    "process-2" : {
+        "name": "Application Two",
+        "owner": "AD Team 2"
+    },
+    "process-3" : {
+        "name": "Application Two",
+        "owner": "AD Team 2"
+    }
+}

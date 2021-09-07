@@ -1,0 +1,18 @@
+{
+    "HKF": {
+        "name": "Hong Kong",
+        "hosts": [
+            "host1",
+            "host2",
+            "host3"
+        ]
+    },
+    "JPX": {
+        "name": "Japan",
+        "hosts": [
+            "host1",
+            "host2",
+            "host3"
+        ]
+    }
+}
